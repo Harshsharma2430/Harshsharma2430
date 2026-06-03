@@ -1,21 +1,32 @@
-👋 Hey, I'm Harsh Sharma!
+# Harsh Sharma
 
-📊 Data Analytics & AI enthusiast passionate about extracting insights from data and building intelligent solutions. Currently exploring Data Science, Machine Learning, and Analytics while continuously learning and creating impactful projects.
+Data Analytics & AI enthusiast passionate about extracting insights from data and building intelligent solutions. Currently exploring Data Science, Machine Learning, and Analytics while continuously learning and creating impactful projects.
 
-LinkedIn - https://www.linkedin.com/in/harsh-sharma-2021/
-Email - sharmaharsh.302003@gmail.com
+---
 
-<!--
-**Harshsharma2430/Harshsharma2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack & Tools
 
-Here are some ideas to get you started:
+* **Languages:** Python, SQL
+* **Data Analysis & Visualization:** Excel, Power BI
+* **Machine Learning:** Scikit-learn
+* **Development Tools:** Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 Current Focus
+
+* 🔭 **Working on:** Data-driven projects and predictive modeling.
+* 🌱 **Learning:** Advanced Machine Learning techniques and data analytics workflows.
+* 👯 **Looking to collaborate on:** Open-source data science projects and AI research.
+* 💬 **Ask me about:** Python development, data visualization, and machine learning implementation.
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/harsh-sharma-2021](https://www.linkedin.com/in/harsh-sharma-2021/)
+* **Email:** [sharmaharsh.302003@gmail.com](mailto:sharmaharsh.302003@gmail.com)
+
+---
+
+> *“Data is the new oil. It is valuable, but if unrefined, it cannot really be used.”*
