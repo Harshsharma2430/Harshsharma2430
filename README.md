@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hey, I'm Harsh Sharma!
+
+📊 Data Analytics & AI enthusiast passionate about extracting insights from data and building intelligent solutions. Currently exploring Data Science, Machine Learning, and Analytics while continuously learning and creating impactful projects.
+
+LinkedIn - https://www.linkedin.com/in/harsh-sharma-2021/
+Email - sharmaharsh.302003@gmail.com
 
 <!--
 **Harshsharma2430/Harshsharma2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
